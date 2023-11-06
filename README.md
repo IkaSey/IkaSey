@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IkaSey
-- 👀 I’m interested in HTML5, CSS, Phyton, PHP, Javascript 
 - 🌱 I’m currently learning HMTL5 and CSS 
 
 <!---
